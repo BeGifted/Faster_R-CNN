@@ -1,8 +1,5 @@
 # Faster R-CNN
 
-## 该项目主要是来自pytorch官方torchvision模块中的源码
-* https://github.com/pytorch/vision/tree/master/torchvision/models/detection
-
 ## 环境配置：
 * Python3.6/3.7/3.8/3.9
 * Pytorch1.7.1(注意：必须是1.6.0或以上，因为使用官方提供的混合精度训练1.6.0后才支持)
